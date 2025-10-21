@@ -8,10 +8,10 @@ diagonal principal. -- Feita --
 diagonal secundária. -- Feita --
 
 4) Escreva um programa que receba uma matriz A(7,6) e retorne a soma dos elementos da linha
-5 e da coluna 3.
+5 e da coluna 3. -- Feita --
 
 5) Escreva um programa que receba uma matriz A(6,6) e retorne o menor elemento da sua
-diagonal secundária.
+diagonal secundária. -- Feita --
 
 6) Escreva um programa que receba uma matriz A(8,8) e calcule o maior elemento da sua
 diagonal principal. A seguir, o algoritmo deve dividir todos os elementos de A pelo maior

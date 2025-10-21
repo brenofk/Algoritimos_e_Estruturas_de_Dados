@@ -15,10 +15,10 @@ diagonal secundária. -- Feita --
 
 6) Escreva um programa que receba uma matriz A(8,8) e calcule o maior elemento da sua
 diagonal principal. A seguir, o algoritmo deve dividir todos os elementos de A pelo maior
-encontrado e armazenando em uma matriz B(8,8).
-
+encontrado e armazenando em uma matriz B(8,8). -- Feita --
+ 
 7) Escreva um programa que receba duas matrizes A(4,6) e B(6,4) e retorne uma matriz, que
-seja o produto matricial de M por N.
+seja o produto matricial de M por N. -- Feita --
 
 8) Escreva um programa que receba uma matriz M(6,6) e um valor A . O procedimento deve
 multiplicar cada elemento de M por A e armazenar em um vetor V(36).

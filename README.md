@@ -21,7 +21,7 @@ encontrado e armazenando em uma matriz B(8,8). -- Feita --
 seja o produto matricial de M por N. -- Feita --
 
 8) Escreva um programa que receba uma matriz M(6,6) e um valor A . O procedimento deve
-multiplicar cada elemento de M por A e armazenar em um vetor V(36).
+multiplicar cada elemento de M por A e armazenar em um vetor V(36). -- Feita --
 
 9) Escreva um programa que receba uma matriz A(10,10), e realize as seguintes trocas:
 a) a linha 2 com a linha 8;

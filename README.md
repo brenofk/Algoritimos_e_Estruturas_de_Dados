@@ -2,10 +2,10 @@
 1) Escreva um programa que receba uma matriz A(5,5) e retorne a soma dos seus elementos. -- Feita --
 
 2) Escreva um programa que receba uma matriz A(6,6) e retorne a soma dos elementos da sua
-diagonal principal.
+diagonal principal. -- Feita --
 
 3) Escreva um programa que receba uma matriz A(6,6) e retorne a soma dos elementos da sua
-diagonal secundária.
+diagonal secundária. -- Feita --
 
 4) Escreva um programa que receba uma matriz A(7,6) e retorne a soma dos elementos da linha
 5 e da coluna 3.

@@ -29,15 +29,16 @@ b) a coluna 4 com a coluna 10;
 c) a diagonal principal com a secundária;
 d) a linha 5 com a coluna 10;
 Ao final, apresente a Matriz A atualizada
+-- Feita --
 
 10) Escreva um programa que receba uma matriz B(9,9) de inteiros e retorne a soma dos
-elementos das linhas pares de B.
+elementos das linhas pares de B.-- Feita --
 
 11) Escreva um programa que receba uma matriz A(6,6) e multiplique cada linha pelo elemento
-da diagonal principal daquela linha. O procedimento deve retornar a matriz alterada.
+da diagonal principal daquela linha. O procedimento deve retornar a matriz alterada.-- Feita --
 
 12) Escreva um programa que receba uma matriz A(12,12) e retorne a média aritmética dos
-elementos abaixo da diagonal principal.
+elementos abaixo da diagonal principal. -- Feita --
 
 13) Escreva um programa que receba uma matriz A(10,10) e retorne a soma dos elementos acima
 da diagonal principal.
